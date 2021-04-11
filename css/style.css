@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.header{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+}
+.nav{
+width: 30%;
+height: 400px;
+background-color: brown;
+float: left;
+}
+.article{
+    width: 50%;
+    height: 400px;
+    background-color: chocolate;
+    float: left;
+
+}
+.ads{
+    width: 20%;
+    height: 400px;
+    background-color: cyan;
+    float: left;
+}
